@@ -479,3 +479,9 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.imglogo {
+    height: 100px;
+    margin-right: 20px;
+    width: auto;
+}
