@@ -488,3 +488,8 @@ footer .footer-below {
     height: auto;
     margin-top: 30px;
 }
+
+.inpreparation {
+    color: red;
+    margin: 10px;
+}
